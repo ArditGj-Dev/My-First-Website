@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0;
+}
+.flamuri{
+
+    margin-top: 400px;
+
+   text-align: center;
+   position: relative;
+   
+  
+}
+ol li{
+    letter-spacing: 1.8;
+    font-size: 12;
+    justify-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.population, h1, p{
+    text-align: justify;
+    font-size: 25px;
+    margin: 30px;
+}
+p{
+    
+    color: gray;
+}
+h1{
+margin: 100px;
+}
+
+/** menu posht**/ 
+ul{
+
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding:0px;
+    list-style:none;
+    }
+    ul li{
+    float:left;
+    width:200px;
+    height:40px;
+    background-color:#000000;
+    opacity: .8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-inline-start: 0px;
+    }
+    ul li a{
+        text-decoration: none;
+        color: #FFFFFF;
+        display: block;
+    }
+    ul li a:hover{
+        background-color: olivedrab;
+    }
+    ul li ul li{
+        display: none;
+    }
+    ul li:hover ul li{
+        display: block;
+    }
+    
+    .section-2{
+        position: absolute;
+        margin-left: 15%;
+        top: 100px;
+    }
+    .w3-container{
+        
+        background-color:gray;
+        color: #000000;
+    }
